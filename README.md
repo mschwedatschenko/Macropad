@@ -1,5 +1,5 @@
 # desc
-3x3 Macropad -- custom PCB designed in KiCad and programmed in Arduino IDE using C++. Case designed in _______ and 3D printed.
+3x3 Macropad -- custom PCB designed in KiCad and programmed in Arduino IDE using C++. Case designed in _______ and 3D printed. This project is still in progress!!
 
 # purpose
 After losing access to my mechanical keyboard I used for a while, and just relying on my laptop's built-in keyboard, I had the desire to make my own mechanical keyboard completely from scratch. This macropad serves as a precursor to a 60% keyboard I hope to create during the upcoming academic year using a bare ATMega32U4 Microcontroller rather than an Arduino Micro, and to test the waters with the project on a smaller scale. 
