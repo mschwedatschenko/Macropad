@@ -1,0 +1,11 @@
+*.bak
+*.tmp
+*.backup
+*.kicad_prl
+*.net
+*.cache
+*.sch-bak
+__pycache__/
+fp-info-cache
+*.autosave.kicad_sch
+*.autosave.kicad_pcb
