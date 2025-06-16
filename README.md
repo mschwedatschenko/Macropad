@@ -1,4 +1,4 @@
-# macropad
+# desc
 3x3 Macropad -- custom PCB designed in KiCad and programmed in Arduino IDE using C++. Case designed in _______ and 3D printed.
 
 # purpose
