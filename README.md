@@ -6,7 +6,5 @@ After losing access to my mechanical keyboard I used for a while, and just relyi
 
 It made more sense to stick with the Arduino Micro for this summer project since I will be strictly using through-hole soldering. With the 60% project, having regular access to WPI's reflow oven will yield hopefully better results using SMT soldering (hand soldering all of the pins on the microcontroller sounds like a nightmare).
 
-# Rough BOM
-- Arduino Pro Micro
-- Keyboard Switches
-- Diodes (through-hole soldered)
+I hope to make the switches on the 60% keyboard hot-swappable. I will be using Cherry MX switches for this macropad and soldering them directly to the PCB.
+https://www.digikey.com/en/products/detail/onsemi/1N4148/458603 <---- diode for future reference
