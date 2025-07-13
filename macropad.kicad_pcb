@@ -80,4 +80,15 @@
 		)
 	)
 	(net 0 "")
+	(gr_rect
+		(start 111.35 48.79)
+		(end 208.2 147.54)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Cu")
+		(uuid "102962df-bed1-40d6-8400-638e2ba18c4f")
+	)
 )
