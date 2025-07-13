@@ -9,3 +9,4 @@ __pycache__/
 fp-info-cache
 *.autosave.kicad_sch
 *.autosave.kicad_pcb
+*.lck
