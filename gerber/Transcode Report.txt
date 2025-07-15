@@ -1,0 +1,53 @@
+
+
+   ---- Transcoding 'C:\Users\mschw\AppData\Local\Temp\PentaLogix\ImportZip\179cfae6-1dc9-4e3b-8915-bfa615e84b49\macropad-F_Mask.gts' ----   Tue Jul 15 13:33:54 2025
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\mschw\AppData\Local\Temp\PentaLogix\ImportZip\179cfae6-1dc9-4e3b-8915-bfa615e84b49\macropad-F_Cu.gtl' ----   Tue Jul 15 13:33:54 2025
+
+D10   --> D103
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+D16   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\mschw\AppData\Local\Temp\PentaLogix\ImportZip\179cfae6-1dc9-4e3b-8915-bfa615e84b49\macropad-B_Cu.gbl' ----   Tue Jul 15 13:33:54 2025
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+D14   --> D114
+D15   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\mschw\AppData\Local\Temp\PentaLogix\ImportZip\179cfae6-1dc9-4e3b-8915-bfa615e84b49\macropad-B_Mask.gbs' ----   Tue Jul 15 13:33:54 2025
+
+D10   --> D117
+D11   --> D118
+D12   --> D119
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\mschw\AppData\Local\Temp\PentaLogix\ImportZip\179cfae6-1dc9-4e3b-8915-bfa615e84b49\macropad-Edge_Cuts.gm1' ----   Tue Jul 15 13:33:55 2025
+
+D10   --> D120
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\mschw\AppData\Local\Temp\PentaLogix\ImportZip\179cfae6-1dc9-4e3b-8915-bfa615e84b49\macropad-NPTH.drl' ----   Tue Jul 15 13:33:55 2025
+
+T1   --> T5
+T2   --> T6
+-----------------------------------------------------------------
