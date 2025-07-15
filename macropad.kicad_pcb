@@ -109,7 +109,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "K6"
-			(at -2.54 -2.794 0)
+			(at -2.39 12.85 0)
 			(layer "F.SilkS")
 			(uuid "eebb2751-4d8a-4ab6-9b25-1d671dbef01c")
 			(effects
@@ -404,7 +404,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "K2"
-			(at -2.54 -2.794 0)
+			(at -10.58 1.09 0)
 			(layer "F.SilkS")
 			(uuid "8e87d65c-967c-4874-bab0-9c9dced4a882")
 			(effects
@@ -699,7 +699,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
-			(at 2.54 -2.326371 0)
+			(at 2.554314 -1.845484 0)
 			(layer "F.SilkS")
 			(uuid "dc1b80d5-ab31-40ef-b6cc-144b1f5534c4")
 			(effects
@@ -873,7 +873,7 @@
 			(uuid "9294ba83-ea26-44fb-bda6-b52c0ff5230d")
 		)
 		(fp_text user "A"
-			(at 3.58 0.8 0)
+			(at 3.924314 0.804516 0)
 			(layer "F.SilkS")
 			(uuid "b3947d10-78e7-4212-897d-a5f3e2558d03")
 			(effects
@@ -946,7 +946,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "K3"
-			(at -2.54 -2.794 0)
+			(at -10.63 3.17 0)
 			(layer "F.SilkS")
 			(uuid "2e729e0d-78cf-43ed-8afb-16768ff81bd4")
 			(effects
@@ -1241,7 +1241,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
-			(at 2.54 -2.326371 0)
+			(at 2.394314 -1.857258 0)
 			(layer "F.SilkS")
 			(uuid "8c403b7b-5c50-417d-811d-d56000263883")
 			(effects
@@ -1415,7 +1415,7 @@
 			(uuid "4729437b-eb83-4732-ba7f-41da26e8479d")
 		)
 		(fp_text user "A"
-			(at 3.58 0.8 0)
+			(at 3.624314 0.702742 0)
 			(layer "F.SilkS")
 			(uuid "d8d61681-37aa-489f-b814-81c7be4d4fa0")
 			(effects
@@ -1488,7 +1488,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
-			(at 2.54 -2.326371 0)
+			(at 2.354314 -1.841774 0)
 			(layer "F.SilkS")
 			(uuid "93971410-93ac-4491-8905-f9b9d98b050a")
 			(effects
@@ -1662,7 +1662,7 @@
 			(uuid "66fa42a6-672d-4fa4-a507-6882dac80fbc")
 		)
 		(fp_text user "A"
-			(at 3.58 0.8 0)
+			(at 3.484314 0.688226 0)
 			(layer "F.SilkS")
 			(uuid "02d4b3d7-e743-4c03-a7f8-429e34b4ac0c")
 			(effects
@@ -2030,7 +2030,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 2.54 -2.326371 0)
+			(at 2.504314 -1.852742 0)
 			(layer "F.SilkS")
 			(uuid "ba16e549-b6f2-4a26-b135-06497c422302")
 			(effects
@@ -2277,7 +2277,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
-			(at 2.54 -2.326371 0)
+			(at 2.574314 -1.838226 0)
 			(layer "F.SilkS")
 			(uuid "68a0d1e3-352e-46d5-a779-fb04b54e5c21")
 			(effects
@@ -2524,7 +2524,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "K9"
-			(at -2.54 -2.794 0)
+			(at 5.46 1.16 0)
 			(layer "F.SilkS")
 			(uuid "d890a3ce-51f6-487c-b459-e51f0135240b")
 			(effects
@@ -2993,7 +2993,7 @@
 			(uuid "487ba93a-dfc0-4aa2-8d8e-c623d135fce8")
 		)
 		(fp_text user "A"
-			(at 3.58 0.8 0)
+			(at 3.814314 0.83371 0)
 			(layer "F.SilkS")
 			(uuid "6a118697-6558-4fef-8272-56c0dcc7e7bb")
 			(effects
@@ -3066,7 +3066,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
-			(at 2.54 -2.326371 0)
+			(at 2.484314 -1.859032 0)
 			(layer "F.SilkS")
 			(uuid "7e907e2e-98a6-420b-ad2b-7661a97e5b1d")
 			(effects
@@ -3240,7 +3240,7 @@
 			(uuid "45edd33e-a957-4606-aa09-9ddf2dfbc8b2")
 		)
 		(fp_text user "A"
-			(at 3.58 0.8 0)
+			(at 3.804314 0.790968 0)
 			(layer "F.SilkS")
 			(uuid "a0a20cfd-e0c6-4441-841b-54ed434084d1")
 			(effects
@@ -3313,7 +3313,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
-			(at 2.54 -2.326371 0)
+			(at 2.524314 -1.844516 0)
 			(layer "F.SilkS")
 			(uuid "956355c8-39f3-4edb-b679-6145150089ac")
 			(effects
@@ -3487,7 +3487,7 @@
 			(uuid "9ab102ab-696b-4c9e-9489-aacfadd6d0ee")
 		)
 		(fp_text user "A"
-			(at 3.58 0.8 0)
+			(at 3.854314 0.685484 0)
 			(layer "F.SilkS")
 			(uuid "c1329766-5ef1-4a25-ba5b-57757e2d7754")
 			(effects
@@ -3560,7 +3560,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "K8"
-			(at -2.54 -2.794 0)
+			(at 5.46 1.91 0)
 			(layer "F.SilkS")
 			(uuid "97e95be4-1c77-4776-860e-acfb9e9408b3")
 			(effects
@@ -4662,7 +4662,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "K5"
-			(at -2.54 -2.794 0)
+			(at -4.96 -0.07 0)
 			(layer "F.SilkS")
 			(uuid "ba2146c2-a0df-45c1-bddd-f88048c657e6")
 			(effects
@@ -5252,7 +5252,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
-			(at 2.54 -2.326371 0)
+			(at 2.574314 -1.84 0)
 			(layer "F.SilkS")
 			(uuid "e0cb424c-f428-4454-8d2c-97e76fd69f93")
 			(effects
@@ -5426,7 +5426,7 @@
 			(uuid "d53da4ec-7876-49b9-bb3c-d4819fc5022e")
 		)
 		(fp_text user "A"
-			(at 3.58 0.8 0)
+			(at 3.784314 0.81 0)
 			(layer "F.SilkS")
 			(uuid "0060f6b0-e67b-4518-b93c-d671de185840")
 			(effects
@@ -5492,16 +5492,101 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 118.1 53.56)
-		(end 179.19 114.2)
+	(gr_line
+		(start 118.1 111.55)
+		(end 118.1 54.06)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
-		(fill none)
-		(layer "F.Cu")
-		(uuid "102962df-bed1-40d6-8400-638e2ba18c4f")
+		(layer "Edge.Cuts")
+		(uuid "3171d39f-7c69-40c0-826b-7764377b9135")
+	)
+	(gr_line
+		(start 178.69 112.05)
+		(end 118.6 112.05)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "52cf051b-93b0-4a79-9dd2-85ce2fff7de8")
+	)
+	(gr_arc
+		(start 118.6 112.05)
+		(mid 118.246447 111.903553)
+		(end 118.1 111.55)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "76c1cf5f-5529-4e4c-8e76-ae5c80b99c5d")
+	)
+	(gr_arc
+		(start 179.19 111.55)
+		(mid 179.043553 111.903553)
+		(end 178.69 112.05)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "95c6afe7-d6bb-4f14-95c5-123a16444ca6")
+	)
+	(gr_line
+		(start 179.19 54.06)
+		(end 179.19 111.55)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a0b56830-6c79-4d9f-b4a4-7499ed4c06bf")
+	)
+	(gr_line
+		(start 118.6 53.56)
+		(end 178.69 53.56)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d0f1c0d6-21bc-4169-8c90-230a6004d0a6")
+	)
+	(gr_arc
+		(start 178.69 53.56)
+		(mid 179.043553 53.706447)
+		(end 179.19 54.06)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "df37b119-5815-441b-90e7-1f8567d65b63")
+	)
+	(gr_arc
+		(start 118.1 54.06)
+		(mid 118.246447 53.706447)
+		(end 118.6 53.56)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f2aee854-11bd-47f1-9d7b-5e4398e79fc1")
+	)
+	(gr_text "Mary Schwedatschenko\nSummer 2025"
+		(at 178.74 111.58 0)
+		(layer "F.SilkS")
+		(uuid "0be56f00-441f-406e-b3b2-678c0b1f4fd3")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.09375)
+			)
+			(justify right bottom)
+		)
 	)
 	(segment
 		(start 121.13 109.9)
