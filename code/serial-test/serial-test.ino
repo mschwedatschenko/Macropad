@@ -16,7 +16,7 @@ void setup() {
     pinMode(colPins[c], INPUT_PULLUP);
   }
 }
-s
+
 void loop() {
   for (byte r = 0; r < row; r++) {
     // activates one row at a time
