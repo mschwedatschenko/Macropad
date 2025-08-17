@@ -1,10 +1,14 @@
 # desc
-3x3 Macropad -- custom PCB designed in KiCad and programmed in Arduino IDE using C++. This project is still in progress!!
+3x3 Macropad -- custom PCB designed in KiCad and programmed in Arduino IDE using C++.
 
 # status
-PCB & all components are here! Just have to solder everything on. the footprints for the switches are too close together (my fault), so the switches fit, but not correctly. the metal prongs for a lot of the switches don't entirely go down into the holes, so I'm afraid they are going to not solder correctly/short. yikes! now I know for next time though!!! here's some pictures:
+The Macropad is finished! The final version of the code ended up being way more simple than I was trying to make it. I am so excited this project is finished! Next stop: 60% keyboard!! :)  
 
-![board image](https://github.com/mschwedatschenko/macropad/blob/main/pics/components.jpeg)
+Here's some final images:
+
+![board image](https://github.com/mschwedatschenko/macropad/blob/main/pics/top-view.jpeg)
+
+![board side](https://github.com/mschwedatschenko/macropad/blob/main/pics/side-view.jpeg)
 
 ![raw board front](https://github.com/mschwedatschenko/macropad/blob/main/pics/raw-front.jpeg)
 
